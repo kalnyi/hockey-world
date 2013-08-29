@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="com.alexkalnij.hockeyworld.web-ui:war exploded">
+    <output-path>$PROJECT_DIR$/com.alexkalnij.hockeyworld.web-ui/target/com.alexkalnij.hockeyworld.web-ui-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="com.alexkalnij.hockeyworld.web-ui/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="com.alexkalnij.hockeyworld.web-ui" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="com.alexkalnij.hockeyworld.api-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="com.alexkalnij.hockeyworld.api" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

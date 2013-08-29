@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="com.alexkalnij.hockeyworld.service:ejb">
+    <output-path>$PROJECT_DIR$/com.alexkalnij.hockeyworld.service/target</output-path>
+    <root id="archive" name="com.alexkalnij.hockeyworld.service-0.0.1-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="com.alexkalnij.hockeyworld.service:ejb exploded" />
+    </root>
+  </artifact>
+</component>

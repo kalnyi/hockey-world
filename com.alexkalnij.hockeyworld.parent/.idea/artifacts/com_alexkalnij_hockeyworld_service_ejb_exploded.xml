@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="com.alexkalnij.hockeyworld.service:ejb exploded">
+    <output-path>$PROJECT_DIR$/com.alexkalnij.hockeyworld.service/target/com.alexkalnij.hockeyworld.service-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="com.alexkalnij.hockeyworld.service/ejb/EJB" />
+      <element id="module-output" name="com.alexkalnij.hockeyworld.service" />
+    </root>
+  </artifact>
+</component>

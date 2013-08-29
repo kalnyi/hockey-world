@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="com.alexkalnij.hockeyworld:ear exploded">
+    <output-path>$PROJECT_DIR$/com.alexkalnij.hockeyworld/target/com.alexkalnij.hockeyworld-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="com.alexkalnij.hockeyworld/javaeeApplication/JavaEE" />
+      <element id="directory" name="com.alexkalnij.hockeyworld.service-0.0.1-SNAPSHOT.jar">
+        <element id="artifact" artifact-name="com.alexkalnij.hockeyworld.service:ejb exploded" />
+      </element>
+      <element id="archive" name="com.alexkalnij.hockeyworld.api-0.0.1-SNAPSHOT.jar">
+        <element id="module-output" name="com.alexkalnij.hockeyworld.api" />
+      </element>
+      <element id="directory" name="com.alexkalnij.hockeyworld.web-ui-0.0.1-SNAPSHOT.war">
+        <element id="artifact" artifact-name="com.alexkalnij.hockeyworld.web-ui:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="com.alexkalnij.hockeyworld:ear">
+    <output-path>$PROJECT_DIR$/com.alexkalnij.hockeyworld/target</output-path>
+    <root id="archive" name="com.alexkalnij.hockeyworld-0.0.1-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="com.alexkalnij.hockeyworld:ear exploded" />
+    </root>
+  </artifact>
+</component>

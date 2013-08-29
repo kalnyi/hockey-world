@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.alexkalnij.hockeyworld/com.alexkalnij.hockeyworld.iml" filepath="$PROJECT_DIR$/com.alexkalnij.hockeyworld/com.alexkalnij.hockeyworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alexkalnij.hockeyworld.api/com.alexkalnij.hockeyworld.api.iml" filepath="$PROJECT_DIR$/com.alexkalnij.hockeyworld.api/com.alexkalnij.hockeyworld.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alexkalnij.hockeyworld.parent.iml" filepath="$PROJECT_DIR$/com.alexkalnij.hockeyworld.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alexkalnij.hockeyworld.service/com.alexkalnij.hockeyworld.service.iml" filepath="$PROJECT_DIR$/com.alexkalnij.hockeyworld.service/com.alexkalnij.hockeyworld.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alexkalnij.hockeyworld.web-ui/com.alexkalnij.hockeyworld.web-ui.iml" filepath="$PROJECT_DIR$/com.alexkalnij.hockeyworld.web-ui/com.alexkalnij.hockeyworld.web-ui.iml" />
+    </modules>
+  </component>
+</project>
+
